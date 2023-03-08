@@ -1,4 +1,4 @@
-# ![MakeBoot](./makeboot.png)MakeBoot
+# ![MakeBoot](./MakeBoot.png)MakeBoot
 
 获得启动软盘所需文件的工具。致敬微软当年提供的启动软盘制作工具。
 
