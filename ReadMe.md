@@ -20,6 +20,7 @@
 
 - Windows Server 2003 的晚期版本和 Windows Longhorn 全系会出现启动问题：
   ![错误文本：The file i2omp.sys could not be found.](https://wvbimg2-1310561333.cos.ap-tokyo.myqcloud.com/2020-04-05/1586055839-414260-windows-xp-professional-2020-03-14-20-45-44.png)
+  
   这似乎与文件的错误排列导致依存关系被破坏有关。推测为启动软盘不再受支持后，微软可能有意打乱了启动软盘的文件列表，导致了此错误。
 
 - 由于代码过于屎山，此工具提供的极少数参数可能不会正常工作或有瑕疵。非常抱歉😔
